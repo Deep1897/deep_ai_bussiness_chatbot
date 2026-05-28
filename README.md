@@ -137,7 +137,7 @@ Example Queries:
 ## 1. Clone Repository
 
 ```bash
-git clone git@github.com:Deep1897/ai-bussiness-chatbot.git
+git clone git@github.com:Deep1897/deep_ai_bussiness_chatbot.git
 ```
 
 ## 2. Move to Project Folder
