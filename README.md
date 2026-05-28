@@ -157,16 +157,15 @@ npm install
 Create a `.env` file in the root directory.
 
 ```env
+
 PORT=5000
 
 DB_HOST=localhost
 DB_USER=root
-DB_PASSWORD=yourpassword
-DB_NAME=business_chatbot
-
-JWT_SECRET=your_secret_key
-
-GROQ_API_KEY=your_groq_api_key
+DB_PASSWORD=######
+DB_NAME=ai_chatbot
+JWT_SECRET=mysecretkey
+GROQ_API_KEY=[your key]
 ```
 
 ## 5. Run Server
